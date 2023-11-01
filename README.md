@@ -14,4 +14,18 @@ LANGKAH-LANGKAH PERULANGAN
 
 3. Kontrol Perulangan
 
+# STRUKTUR KONDISI LATIHAN 1
+![gambar](Latihan1.py.png)
+
+# STRUKTUR KONDISI LATIHAN 2
+![gambar](Latihan2.py.png)
+
+# PERULANGAN LATIHAN 1
+![gambar](Latihan3.py.png)
+
+# PERULANGAN LATIHAN 2
+![gambar](Latihan4.py.png)
+
+
+
 
