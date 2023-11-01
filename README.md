@@ -8,10 +8,10 @@ LANGKAH-LANGKAH STRUKTUR KONDISI
 
 LANGKAH-LANGKAH PERULANGAN
 
-1.Perulangan dengan "for"
+1. Perulangan dengan "for"
 
-2.Perulangan dengan while
+2. Perulangan dengan while
 
-3.Kontrol Perulangan
+3. Kontrol Perulangan
 
 
