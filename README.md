@@ -26,6 +26,9 @@ LANGKAH-LANGKAH PERULANGAN
 # PERULANGAN LATIHAN 2
 ![gambar](Latihan4.py.png)
 
+# FLOWCHART
+![gambar](FLOWCHART.jpeg)
+
 
 
 
